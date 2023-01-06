@@ -1,0 +1,201 @@
+c:\users\riddh\documents\visual studio 2012\Projects\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+c:\users\riddh\documents\visual studio 2012\Projects\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+c:\users\riddh\documents\visual studio 2012\Projects\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+c:\users\riddh\documents\visual studio 2012\Projects\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+c:\users\riddh\documents\visual studio 2012\Projects\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\riddh\Desktop\unique\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\riddh\Desktop\unique\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\riddh\Desktop\unique\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\riddh\Desktop\unique\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\riddh\Desktop\unique\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\unique\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\unique\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\unique\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\unique\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\unique\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\riddh\Desktop\GTU_Portal-20200308T041903Z-001\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\riddh\Desktop\GTU_Portal-20200308T041903Z-001\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\riddh\Desktop\GTU_Portal-20200308T041903Z-001\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\riddh\Desktop\GTU_Portal-20200308T041903Z-001\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\riddh\Desktop\GTU_Portal-20200308T041903Z-001\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\GTU_Portal-20200311T084836Z-001\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\GTU_Portal-20200311T084836Z-001\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\GTU_Portal-20200311T084836Z-001\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\GTU_Portal-20200311T084836Z-001\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\GTU_Portal-20200311T084836Z-001\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\AjaxControlToolkit.pdb
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu\GTU_Portal\GTU_Portal\bin\itextsharp.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\AjaxControlToolkit.pdb
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\riddh\Desktop\final_golu 16-March-2020-20200317T050457Z-001\final_golu 16-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\AjaxControlToolkit.pdb
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\final_golu 18-March-2020\final_golu 16-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\AjaxControlToolkit.pdb
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\abc\Desktop\UTPAL\final_golu 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\AjaxControlToolkit.pdb
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\abc\Desktop\UTPAL\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll.config
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\AjaxControlToolkit.pdb
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojAssemblyReference.cache
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csproj.CoreCompileInputs.cache
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csproj.CopyComplete
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\chirag\Desktop\GTU Sports Portal 25-March-2020\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll.config
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csproj.CoreCompileInputs.cache
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csproj.CopyComplete
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.Assets.Rendering.Windows.dll
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.dll
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.xml
+E:\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\ADMIN\Desktop\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.dll
+C:\Users\ADMIN\Desktop\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.xml
+C:\Users\ADMIN\Desktop\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\GTU Project\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (1 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (1 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (1 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (1 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.dll
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (1 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.xml
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (1 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (1 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (1 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (2 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (2 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\GTU_Portal.pdb
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (2 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (2 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.dll
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (2 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\bin\IronPdf.xml
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (2 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (2 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.dll
+C:\Users\ADMIN\Desktop\AI SEM-8 LJ\GTU Project (2 sept)\final_golu 25-March-2020\GTU_Portal\GTU_Portal\obj\Debug\GTU_Portal.pdb
